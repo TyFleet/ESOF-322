@@ -1,0 +1,98 @@
+Public Interface IRentable(){
+rent()
+vehicle();
+}
+
+rent(){
+
+}
+
+Public class Company(){
+Public String name;
+Public String headquarters = new Address();
+}
+
+Public class Address(){
+Public String Street;
+Public String postalCode;
+Public string city;
+Person();
+}
+
+Public abstract class person(){
+Public String name;
+Public String email
+Employee();
+Customer();
+}
+ 
+PUblic class VehicleRentalService(){
+Public vehicle = new vehicle();
+Public offerCar();
+Public offerMotorbike();
+Public offerTruck();
+}
+service(){
+Public customer = new Customer();
+VehicleRentalService();
+}
+
+offerCar(){
+
+}
+offerMotorbike(){
+
+}
+offerTruck(){
+
+}
+
+Public class Vehicle(){
+Truck();
+Car();
+Motorbike();
+}
+
+Object Customer(){
+
+}
+
+Object Subcontractor(){
+
+}
+
+Object Employee(){
+
+}
+
+Public class Truck(){
+Public weight = new UnlimitedNatural();
+Public power = new unlimitedNatural();
+Public String manufacture;
+Public String regNo;
+Company();
+}
+
+Public class Car(){
+Public kind = new CarKind()
+Public noSeats= new UnlimitedNatural();
+Public power = new UnlimitedNatural();
+Public String manufacture;
+Public String regNo;
+Company();
+}
+
+Public class Motorbike(){
+Public kind = new CarKind();
+Public CylinderCap = new UnlimitedNatural();
+Public power = new UnlimitedNatural();
+Public String manufacture;
+Public string regNo;
+Company();
+}
+
+Public class BankAccount(customer){
+Public number = new UnlimitedNatural();
+Public String depositor
+Public String bank;
+}
